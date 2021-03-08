@@ -6,7 +6,7 @@
 - กำลังศึกษาคณะแพทยศาสตร์และการสาธารณสุข สาขาวิทยาศาสตร์ข้อมูลสุขภาพ วิทยาลัยวิทยาศาสตร์การแพทย์เจ้าฟ้าจุฬาภรณ์ 
 
 ##Project ที่เคยทำ
-
+- pygame car2d
 <!--
 **octsy/octsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
